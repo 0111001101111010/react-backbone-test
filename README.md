@@ -1,6 +1,6 @@
 mhacksF14
 ----
-React + Backbone Scaffold
+React + Backbone Scaffold 
 
 git clone
 npm install
