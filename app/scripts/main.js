@@ -1,3 +1,4 @@
+/* global: React*/
 /** @jsx React.DOM */
 'use strict';
 
